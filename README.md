@@ -1,3 +1,5 @@
-# Perfil de Luis Alberto Briceño Martínez
+# Perfil Luis Briceño 
 
-Estudiando para Desarrollador Full Stack
+Estudiando para Desarrollador Full Stack 
+
+Empezando en el mundillo
